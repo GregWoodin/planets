@@ -1,5 +1,5 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
-
+You are tearing me apart, Lisa!
 
 This morning we're learning version control with Git by setting up repositories via the command line and storing these online at #GitHub
