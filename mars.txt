@@ -1,1 +1,5 @@
 Cold and dry, but everything is my favorite color
+The two moons may be a problem for Wolfman
+
+
+This morning we're learning version control with Git by setting up and changing repositories via the command line. We're also warned of the dangers of 'losing our heads' by entering a detached head state...
